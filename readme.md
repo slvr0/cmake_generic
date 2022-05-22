@@ -1,0 +1,1 @@
+Generic CMAKE project that can be used to start any project with a templated structure
